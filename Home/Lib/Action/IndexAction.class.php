@@ -1,7 +1,7 @@
 <?php
 
 
-class IndexAction extends Action {
+class IndexAction extends BaseAction {
 	
 	
 	// 框架首页
